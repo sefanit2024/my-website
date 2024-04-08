@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+
+.img{
+    float:left;
+    width: 33.33%;
+    padding:3px
+}
+ *{
+    box-sizing:border-box ;
+ }
+
+ .rd{
+    float:left;
+    width:33.33%;
+    padding:3px;
+ }
+
+.container{
+    background-color: a
+}
+.first{
+    box-sizing: border-box;
+    float:left;
+    width:33.33%;
+    padding:top;
+    color:greenyellow
+}
+
